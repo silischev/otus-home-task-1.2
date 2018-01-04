@@ -1,0 +1,16 @@
+{
+    "name": "asil/otus-home-task-1.2",
+    "description": "otus home-task-1.2",
+    "type": "project",
+    "authors": [
+        {
+          "name": "Anton Silischev"
+        }
+    ],
+    "require": {
+        "php": ">=7.2",
+        "asil/otus-home-task-1.1": "^1.1"
+    },
+    "license": "mit",
+    "minimum-stability": "stable"
+}
